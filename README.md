@@ -138,7 +138,7 @@ void loop()
  
 
 ### TABLE -02 OUTPUT VOLTAGES AND CHANGE IN RESISTANCES
-![output](ROBOTICS -4.png)
+![output](1.png)
 
 
 
